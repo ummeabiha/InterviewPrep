@@ -1,2 +1,2 @@
 # InterviewPrep
-This repository contains the notes for technical coding interviews.
+This repository includes notes and resources for technical coding interviews.
