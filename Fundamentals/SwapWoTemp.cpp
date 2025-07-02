@@ -6,9 +6,9 @@
 using namespace std;
 
 void swap_numbers(int& a, int& b) {
-    a = a + b;
-    b = a - b;
-    a = a - b;
+    a = a + b; // a=15
+    b = a - b; // b=15-10 = 5
+    a = a - b; // a= 15-5 = 10
 }
 
 int main() {
